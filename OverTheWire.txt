@@ -1,5 +1,5 @@
 Chapter : <Bandit>
-
+-------------------------------------------------------------------------------
 Server url: bandit.labs.overthewire.org PORT:2220
 Level 1-2: cat readme|password :ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If   {for bandit1}
 Level 2-3: got password 263JGJPfgU6LtdEvgfWU1XP5yac29mFx
